@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/889
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Arnold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25965#Indian-Poetry--13-Containing--The-Indian-Song-of-Songs---from-the-Sanskrit-of-the-G-ta-Govind_
 gutenberg_issued: '2008-07-04'
 gutenberg_type: Text
 identifiers:
